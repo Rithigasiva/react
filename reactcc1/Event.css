@@ -1,0 +1,77 @@
+
+ body
+ {
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%); }
+ .div1
+ {
+   border: 2px solid #ddd; 
+   margin:100px;
+   background-color: rgba(173, 216, 230, 0.235); 
+   color: rgb(252, 251, 251);
+  
+ }
+.upcoming {
+    border: 2px solid #ddd; 
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    color: white;
+  }
+  
+  .upcoming h2 {
+    color: #faf8f8;
+    border-bottom: 2px solid #49cff4; 
+    padding-bottom: 10px; 
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+  }
+  .upcoming-heading
+  {
+    color: rgb(254, 252, 252);
+  }
+  
+  .upcoming ul {
+    list-style-type: none;
+    padding: 0; 
+  }
+  
+  .upcoming li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd; 
+    margin-bottom: 10px; 
+    font-family: 'Arial', sans-serif; 
+  }
+  
+  .upcoming-events li:last-child {
+    border-bottom: none;
+  }
+  
+  .upcoming-events li strong {
+    color: #49cff4; 
+    font-weight: bold;
+  }
+  
+  .upcoming-events p {
+    font-style: italic; 
+    color: #888; 
+  }
+  .edit-form input {
+    width: 500px; 
+    height: 30px; 
+    padding: 5px; 
+    margin-left: 250px;
+    font-size: 14px; 
+    border-radius: 5px; 
+    border: 1px solid #4a4f63; 
+    box-sizing: border-box; 
+  }
+  .save-button
+  {
+    width: 100px;
+    margin-top: 10px;
+  }
+  .cancel-button
+  {
+    width: 100px;
+  }

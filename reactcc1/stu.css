@@ -1,0 +1,129 @@
+/* .stu{
+    background-color: rgba(173, 216, 230, 0.187);
+    border-width: 500px;
+    margin: 90px;
+  }
+  .student-list {
+    background-color: #49cff4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: white;
+  }
+  
+  .student-list h3 {
+    margin-bottom: 20px;
+    color: #eff4f8;
+    font-size: 22px;
+  }
+  
+  
+  .student-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .student-table th, .student-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .student-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  .in1
+  {     width: 100px; 
+        padding: 5px;
+        margin-left: 20px;
+        border-radius: 5px;       
+  }
+  input[type="text"],
+input[type="email"]
+ {
+  width: 1020;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #b3b8be;
+}  */
+.student-management-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgba(173, 216, 230, 0.137); 
+
+    color: #ecf0f1;
+  }
+  
+  .student-management-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .student-management-input {
+    width: 100%; 
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  
+  .student-management-add-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #3186bf;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .student-management-add-button:hover {
+    background: #1f6391;
+  }
+  
+  .student-management-list-header {
+    margin-top: 20px;
+  }
+  
+  .student-management-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .student-management-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #34495e;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .student-management-delete-button {
+    background-color: #e74c3c;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .student-management-delete-button:hover {
+    background-color: #c0392b;
+  }
+  
+  .student-management-delete-button:active {
+    transform: scale(0.98);
+  }
+  

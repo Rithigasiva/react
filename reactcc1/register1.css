@@ -1,0 +1,107 @@
+/* .reg1 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    width:100%;
+    color: #333;
+    background:url("https://img.goodfon.com/wallpaper/big/4/5c/makro-krupnym-planom-noutbuk-globus-sfera-shar-klaviatura-po.webp");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.register1-form {
+    
+    font-family: 'Poppins', sans-serif;
+   
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: 600px;
+    max-width: 400px;
+    box-sizing: border-box;
+    backdrop-filter: blur(10px);
+    border: 4px solid black;
+    background-color: rgb(38, 195, 238,0.1);
+ 
+}
+
+
+.register1-title {
+    text-align: center;
+    color: #fef8f8;
+    margin-bottom: 30px;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.register1-input {
+    width: 100%;
+    padding: 15px 18px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: #fafafa;
+    transition: all 0.3s ease;
+}
+
+.register1-input:focus {
+    border-color: #007bff;
+    background-color: #fff;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+.register1-button {
+   
+    padding: 15px 20px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 90px;
+}
+
+.register1-button:hover {
+    background-color: #0056b3;
+    box-shadow: 0 8px 15px rgba(0, 123, 255, 0.3);
+}
+
+.register1-button:active {
+    background-color: #004494;
+    box-shadow: 0 5px 10px rgba(0, 123, 255, 0.2);
+    transform: translateY(2px);
+}
+
+.register1-input::placeholder {
+    color: #999;
+}
+
+@media (max-width: 400px) {
+    .register1-form {
+        padding: 30px 20px;
+    }
+
+    .register1-title {
+        font-size: 24px;
+    }
+
+    .register1-input {
+        padding: 12px 15px;
+        font-size: 15px;
+    }
+
+    .register1-button {
+        padding: 12px;
+        font-size:16px;
+    }
+} */
