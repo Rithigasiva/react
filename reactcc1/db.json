@@ -1,0 +1,568 @@
+{
+  "students": [
+    {
+      "student": {
+        "studentId": "12345",
+        "name": "Vedha Ramesh",
+        "email": "vedha@student.com",
+        "program": "B.Sc. Computer Science",
+        "year": "2nd Year",
+        "password": "vedha123"
+      },
+      "courses": [
+        {
+          "code": "CS101",
+          "name": "Introduction to Programming",
+          "credits": 3
+        },
+        {
+          "code": "CS102",
+          "name": "Data Structures",
+          "credits": 3
+        },
+        {
+          "code": "CS103",
+          "name": "Database Management",
+          "credits": 3
+        }
+      ],
+      "marks": [
+        {
+          "course": "CS101",
+          "score": "A"
+        },
+        {
+          "course": "CS102",
+          "score": "B+"
+        },
+        {
+          "course": "CS103",
+          "score": "A-"
+        }
+      ],
+      "examSchedule": [
+        {
+          "course": "CS101",
+          "date": "Dec 1, 2024",
+          "time": "10:00 AM"
+        },
+        {
+          "course": "CS102",
+          "date": "Dec 3, 2024",
+          "time": "2:00 PM"
+        },
+        {
+          "course": "CS103",
+          "date": "Dec 5, 2024",
+          "time": "9:00 AM"
+        }
+      ],
+      "progress": [
+        {
+          "course": "CS101",
+          "completion": 75
+        },
+        {
+          "course": "CS102",
+          "completion": 60
+        },
+        {
+          "course": "CS103",
+          "completion": 85
+        }
+      ],
+      "additionalEvents": [
+        {
+          "title": "AI Workshop",
+          "date": "Oct 10, 2024"
+        },
+        {
+          "title": "Annual Hackathon 2024",
+          "date": "Nov 5, 2024"
+        }
+      ],
+      "id": "1c5a"
+    },
+    {
+      "student": {
+        "name": "Nithya",
+        "studentId": "54321",
+        "email": "nithya@student.com",
+        "program": "B.Sc. Information Technology",
+        "year": "3rd Year",
+        "password": "nithya123"
+      },
+      "courses": [
+        {
+          "code": "IT201",
+          "name": "Networking Fundamentals",
+          "credits": 4
+        },
+        {
+          "code": "IT202",
+          "name": "Web Development",
+          "credits": 3
+        },
+        {
+          "code": "IT203",
+          "name": "Cybersecurity",
+          "credits": 4
+        }
+      ],
+      "marks": [
+        {
+          "course": "IT201",
+          "score": "A"
+        },
+        {
+          "course": "IT202",
+          "score": "A-"
+        },
+        {
+          "course": "IT203",
+          "score": "B+"
+        }
+      ],
+      "examSchedule": [
+        {
+          "course": "IT201",
+          "date": "Dec 2, 2024",
+          "time": "10:00 AM"
+        },
+        {
+          "course": "IT202",
+          "date": "Dec 4, 2024",
+          "time": "2:00 PM"
+        },
+        {
+          "course": "IT203",
+          "date": "Dec 6, 2024",
+          "time": "9:00 AM"
+        }
+      ],
+      "progress": [
+        {
+          "course": "IT201",
+          "completion": 85
+        },
+        {
+          "course": "IT202",
+          "completion": 70
+        },
+        {
+          "course": "IT203",
+          "completion": 65
+        }
+      ],
+      "additionalEvents": [
+        {
+          "title": "Cybersecurity Awareness Seminar",
+          "date": "Oct 15, 2024"
+        },
+        {
+          "title": "IT Innovation Hackathon",
+          "date": "Nov 10, 2024"
+        }
+      ],
+      "id": "7e6d"
+    },
+    {
+      "student": {
+        "name": "kavya",
+        "studentId": "67890",
+        "email": "kavya@student.com",
+        "program": "B.Sc. Software Engineering",
+        "year": "1st Year",
+        "password": "kavya123"
+      },
+      "courses": [
+        {
+          "code": "SE101",
+          "name": "Software Design",
+          "credits": 3
+        },
+        {
+          "code": "SE102",
+          "name": "Algorithms",
+          "credits": 4
+        },
+        {
+          "code": "SE103",
+          "name": "Operating Systems",
+          "credits": 3
+        }
+      ],
+      "marks": [
+        {
+          "course": "SE101",
+          "score": "A"
+        },
+        {
+          "course": "SE102",
+          "score": "A-"
+        },
+        {
+          "course": "SE103",
+          "score": "B+"
+        }
+      ],
+      "examSchedule": [
+        {
+          "course": "SE101",
+          "date": "Dec 1, 2024",
+          "time": "9:00 AM"
+        },
+        {
+          "course": "SE102",
+          "date": "Dec 3, 2024",
+          "time": "1:00 PM"
+        },
+        {
+          "course": "SE103",
+          "date": "Dec 5, 2024",
+          "time": "11:00 AM"
+        }
+      ],
+      "progress": [
+        {
+          "course": "SE101",
+          "completion": 80
+        },
+        {
+          "course": "SE102",
+          "completion": 75
+        },
+        {
+          "course": "SE103",
+          "completion": 65
+        }
+      ],
+      "additionalEvents": [
+        {
+          "title": "Software Development Bootcamp",
+          "date": "Oct 20, 2024"
+        },
+        {
+          "title": "Engineering Conference 2024",
+          "date": "Nov 12, 2024"
+        }
+      ],
+      "id": "d6ec"
+    },
+    {
+      "id": "e511",
+      "student": {
+        "name": "Nisa",
+        "studentId": "12341nisa@student.com",
+        "email": "nisa@student.com",
+        "program": "BE",
+        "year": "1",
+        "password": "nisa123"
+      },
+      "courses": [],
+      "marks": [],
+      "events": [],
+      "examSchedule": [],
+      "progress": []
+    },
+    {
+      "id": "2854",
+      "student": {
+        "name": "rasika",
+        "studentId": "12",
+        "email": "727723eucs183@skcet.ac.in",
+        "program": "BE",
+        "year": "2",
+        "password": "12345"
+      },
+      "courses": [],
+      "marks": [],
+      "events": [],
+      "examSchedule": [],
+      "progress": []
+    },
+    {
+      "id": "27d0",
+      "student": {
+        "name": "Ragul",
+        "studentId": "123",
+        "email": "ragul@student.com",
+        "program": "BE-CSE",
+        "year": "1st",
+        "password": "123ragul"
+      },
+      "courses": [],
+      "marks": [],
+      "events": [],
+      "examSchedule": [],
+      "progress": []
+    },
+    {
+      "id": "442d",
+      "student": {
+        "name": "Vedha G",
+        "studentId": "123",
+        "email": "vedhag@student.com",
+        "program": "B.E-CSE",
+        "year": "2nd",
+        "password": "1234567890"
+      },
+      "courses": [],
+      "marks": [],
+      "events": [],
+      "examSchedule": [],
+      "progress": []
+    },
+    {
+      "id": "cfd4",
+      "student": {
+        "name": "Rasikaa",
+        "studentId": "183",
+        "email": "727723eucs183@student.com",
+        "program": "BE CSE",
+        "year": "2",
+        "password": "rasika"
+      },
+      "courses": [],
+      "marks": [],
+      "events": [],
+      "examSchedule": [],
+      "progress": []
+    }
+  ],
+  "courseNames": [
+    {
+      "id": "a4ad",
+      "name": "Software Design"
+    },
+    {
+      "id": "87e6",
+      "name": "Database Management System"
+    },
+    {
+      "id": "f362",
+      "name": "Data Structures and Algorithms"
+    },
+    {
+      "id": "d925",
+      "name": "AI"
+    },
+    {
+      "id": "d34f",
+      "name": "Web Development"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Maths-I Exam",
+      "date": "2024-09-20",
+      "location": "Room A0"
+    },
+    {
+      "id": "4",
+      "title": "English Exam",
+      "date": "2024-10-12",
+      "location": "Room A2"
+    },
+    {
+      "id": "2",
+      "title": "Tamil Exam",
+      "date": "2024-10-13",
+      "location": "Room A3"
+    },
+    {
+      "id": "3",
+      "title": "ADP Model",
+      "date": "2024-10-20",
+      "location": "Room A4"
+    },
+    {
+      "id": "5",
+      "title": "CPP Model",
+      "date": "2024-10-23",
+      "location": "Room A1"
+    },
+    {
+      "id": "6",
+      "title": "React Model",
+      "date": "2024-10-24",
+      "location": "Room A2"
+    },
+    {
+      "id": "7",
+      "title": "Python Model",
+      "date": "2024-10-25",
+      "location": "Room A3"
+    },
+    {
+      "id": "8",
+      "title": "AI Workshop",
+      "date": "2024-11-05",
+      "location": "Room A4"
+    }
+  ],
+  "users": [
+    {
+      "id": "3",
+      "name": "Nisa",
+      "username": "Samantha",
+      "email": "nisa@gmail.com",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Kavya",
+      "username": "Karianne",
+      "email": "kavya@gmail.com",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Ajay",
+      "username": "Kamren",
+      "email": "ajay@gmail.com",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Rithi",
+      "username": "Leopoldo_Corkery",
+      "email": "rithiii@gmail.com",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Madhu",
+      "username": "Elwyn.Skiles",
+      "email": "madhu@gmail.com",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Keerthana",
+      "username": "Maxime_Nienow",
+      "email": "keerthana@gmail.com",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Sri",
+      "username": "Delphine",
+      "email": "sri@gmail.com",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    }
+  ]
+}
